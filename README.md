@@ -1,2 +1,3 @@
-# smart-devops-toolkit-qdpu
-Automated issue comment bot repository
+# Smart Devops Toolkit Qdpu
+
+Automated issue comment bot repository.
